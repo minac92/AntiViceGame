@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2dbc9964298cb4cb7b122e3a350fdf2e
+timeCreated: 1492375439
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SignPainter
+  fontNames:
+  - SignPainter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
